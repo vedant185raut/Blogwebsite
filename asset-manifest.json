@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Blogwebsite/static/css/main.6a8d4572.css",
+    "main.js": "/Blogwebsite/static/js/main.1a6f184b.js",
+    "static/media/Expressjs.svg": "/Blogwebsite/static/media/Expressjs.9c47ce21835741e9d81576a332199279.svg",
+    "static/media/sboy.svg": "/Blogwebsite/static/media/sboy.dd409f5840447bd06e0cc01c5f4bfadb.svg",
+    "static/media/MySql.svg": "/Blogwebsite/static/media/MySql.68c8655ee4a0bef4ec99192c22346b09.svg",
+    "static/media/React.svg": "/Blogwebsite/static/media/React.cecd5b6597ff4c0f78e1462f843e2e6d.svg",
+    "static/media/logo4.svg": "/Blogwebsite/static/media/logo4.766c791193736e8e0a61554e6af503c1.svg",
+    "index.html": "/Blogwebsite/index.html",
+    "static/media/delete.svg": "/Blogwebsite/static/media/delete.90a4794c525ecbd28709dfda3ba37c15.svg",
+    "static/media/create.svg": "/Blogwebsite/static/media/create.4687f6fb689356dc752e1689d7dfe04c.svg",
+    "main.6a8d4572.css.map": "/Blogwebsite/static/css/main.6a8d4572.css.map",
+    "main.1a6f184b.js.map": "/Blogwebsite/static/js/main.1a6f184b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a8d4572.css",
+    "static/js/main.1a6f184b.js"
+  ]
+}
